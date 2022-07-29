@@ -1,0 +1,27 @@
+C:\Users\dell\Desktop\Forms_Projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe.config
+C:\Users\dell\Desktop\Forms_Projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe
+C:\Users\dell\Desktop\Forms_Projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.pdb
+C:\Users\dell\Desktop\Forms_Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Forms_Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.frmInvoiceForm.resources
+C:\Users\dell\Desktop\Forms_Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.Properties.Resources.resources
+C:\Users\dell\Desktop\Forms_Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\Forms_Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.exe
+C:\Users\dell\Desktop\Forms_Projects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.pdb
+C:\Users\dell\Desktop\MyProjects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe.config
+C:\Users\dell\Desktop\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.exe
+C:\Users\dell\Desktop\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.pdb
+C:\Users\dell\Desktop\MyProjects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe
+C:\Users\dell\Desktop\MyProjects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.pdb
+C:\Users\dell\Desktop\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.frmInvoiceForm.resources
+C:\Users\dell\Desktop\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.Properties.Resources.resources
+C:\Users\dell\Desktop\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\c# Examples\MyProjects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe.config
+C:\Users\dell\Desktop\c# Examples\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.exe
+C:\Users\dell\Desktop\c# Examples\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.pdb
+C:\Users\dell\Desktop\c# Examples\MyProjects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe
+C:\Users\dell\Desktop\c# Examples\MyProjects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.pdb
+C:\Users\dell\Desktop\c# Examples\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\c# Examples\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.frmInvoiceForm.resources
+C:\Users\dell\Desktop\c# Examples\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.Properties.Resources.resources
+C:\Users\dell\Desktop\c# Examples\MyProjects\PrintInvoice\PrintInvoice\obj\Debug\PrintInvoice.csproj.GenerateResource.Cache
